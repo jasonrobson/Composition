@@ -1,2 +1,0 @@
-# Composition
-Created with CodeSandbox
